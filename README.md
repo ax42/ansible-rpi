@@ -21,11 +21,11 @@ Tested on a Rpi 3 B+ and a Rpi 1 B.
 - Custom sudo user for rpi (*thus disabling pi as Rpi sudoer*)
 - `oh-my-zsh` install and vim as default editor
 - Dynamic network folder and local drive setup (*Works with SAMBA and include basic credentials management*)
-- Optionnal hostname update and Zeroconf
-- Optionnal custom SSH banner
-- Optionnal Wifi config
-- Optionnal Mosh support
-- Optionnal unsudo of the pi user
+- Optional hostname update and Zeroconf
+- Optional custom SSH banner
+- Optional Wifi config
+- Optional Mosh support
+- Optional unsudo of the pi user
 
 ### `download_server` role
 
